@@ -5,6 +5,7 @@ from math import *
 
 dx, dy = (+2, +2)
 
+
 root = Tk()
 root.geometry('800x600')
 
@@ -14,9 +15,6 @@ l = Label(bg = 'grey', fg = 'white', width = 40) #  | значений счёт�
 l.pack()
 
 colors = ['red', 'green', 'blue', 'orange']
-
-class ball():
-
 
 def tick():
     global x, y, dx, dy

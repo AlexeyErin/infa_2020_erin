@@ -1,3 +1,0 @@
-testing git functional
-new row1
-new row2

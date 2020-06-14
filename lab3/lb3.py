@@ -48,11 +48,9 @@ def click(event): # функция реакции на клик по шарик�
 
 
 
-
-
 canv.bind('<Button-1>', click)
 
-new_ball()
+abc = new_ball()
 
 
 
